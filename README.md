@@ -72,5 +72,22 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/albindavidc/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/albindavidc/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/albindavidc/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/albindavidc/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/albindavidc/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/albindavidc/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 <!---LeetCode Topics End-->
