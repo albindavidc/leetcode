@@ -30,6 +30,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/albindavidc/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/albindavidc/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -52,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0165-compare-version-numbers](https://github.com/albindavidc/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/albindavidc/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/albindavidc/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0763-partition-labels](https://github.com/albindavidc/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0809-expressive-words](https://github.com/albindavidc/LeetCode/tree/main/0809-expressive-words/) | Medium |
@@ -74,6 +76,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/albindavidc/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0621-task-scheduler](https://github.com/albindavidc/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0763-partition-labels](https://github.com/albindavidc/LeetCode/tree/main/0763-partition-labels/) | Medium |
 ## Counting
