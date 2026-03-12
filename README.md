@@ -5,6 +5,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/albindavidc/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/albindavidc/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0621-task-scheduler](https://github.com/albindavidc/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/albindavidc/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -80,6 +81,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/albindavidc/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0118-pascals-triangle](https://github.com/albindavidc/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/albindavidc/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
