@@ -17,6 +17,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/albindavidc/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/albindavidc/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0846-hand-of-straights](https://github.com/albindavidc/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
+| [0932-beautiful-array](https://github.com/albindavidc/LeetCode/tree/main/0932-beautiful-array/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/albindavidc/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/albindavidc/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/albindavidc/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -62,6 +63,7 @@
 | ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/albindavidc/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/albindavidc/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
+| [0932-beautiful-array](https://github.com/albindavidc/LeetCode/tree/main/0932-beautiful-array/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/albindavidc/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -154,6 +156,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0324-wiggle-sort-ii](https://github.com/albindavidc/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0932-beautiful-array](https://github.com/albindavidc/LeetCode/tree/main/0932-beautiful-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
