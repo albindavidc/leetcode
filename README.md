@@ -10,6 +10,7 @@
 | [0139-word-break](https://github.com/albindavidc/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0213-house-robber-ii](https://github.com/albindavidc/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0221-maximal-square](https://github.com/albindavidc/LeetCode/tree/main/0221-maximal-square/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/albindavidc/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/albindavidc/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/albindavidc/LeetCode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/albindavidc/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
@@ -41,6 +42,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/albindavidc/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/albindavidc/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/albindavidc/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Sliding Window
@@ -180,6 +182,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/albindavidc/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/albindavidc/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0932-beautiful-array](https://github.com/albindavidc/LeetCode/tree/main/0932-beautiful-array/) | Medium |
 ## Quickselect
@@ -196,6 +199,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0221-maximal-square](https://github.com/albindavidc/LeetCode/tree/main/0221-maximal-square/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/albindavidc/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0832-flipping-an-image](https://github.com/albindavidc/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
