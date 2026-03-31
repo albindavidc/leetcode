@@ -80,6 +80,7 @@
 | [0313-super-ugly-number](https://github.com/albindavidc/LeetCode/tree/main/0313-super-ugly-number/) | Medium |
 | [0343-integer-break](https://github.com/albindavidc/LeetCode/tree/main/0343-integer-break/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/albindavidc/LeetCode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/albindavidc/LeetCode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/albindavidc/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/albindavidc/LeetCode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0932-beautiful-array](https://github.com/albindavidc/LeetCode/tree/main/0932-beautiful-array/) | Medium |
@@ -155,6 +156,7 @@
 | [0337-house-robber-iii](https://github.com/albindavidc/LeetCode/tree/main/0337-house-robber-iii/) | Medium |
 | [0343-integer-break](https://github.com/albindavidc/LeetCode/tree/main/0343-integer-break/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/albindavidc/LeetCode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/albindavidc/LeetCode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0397-integer-replacement](https://github.com/albindavidc/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/albindavidc/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 ## Backtracking
@@ -235,4 +237,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0337-house-robber-iii](https://github.com/albindavidc/LeetCode/tree/main/0337-house-robber-iii/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/albindavidc/LeetCode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 <!---LeetCode Topics End-->
