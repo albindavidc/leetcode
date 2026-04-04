@@ -26,6 +26,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/albindavidc/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/albindavidc/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0846-hand-of-straights](https://github.com/albindavidc/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
+| [0922-sort-array-by-parity-ii](https://github.com/albindavidc/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0932-beautiful-array](https://github.com/albindavidc/LeetCode/tree/main/0932-beautiful-array/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/albindavidc/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/albindavidc/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -45,6 +46,7 @@
 | [0832-flipping-an-image](https://github.com/albindavidc/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/albindavidc/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/albindavidc/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/albindavidc/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/albindavidc/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -68,6 +70,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/albindavidc/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/albindavidc/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0846-hand-of-straights](https://github.com/albindavidc/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
+| [0922-sort-array-by-parity-ii](https://github.com/albindavidc/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/albindavidc/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/albindavidc/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/albindavidc/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
