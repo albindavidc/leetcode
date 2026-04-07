@@ -110,6 +110,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/albindavidc/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0844-backspace-string-compare](https://github.com/albindavidc/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0942-di-string-match](https://github.com/albindavidc/LeetCode/tree/main/0942-di-string-match/) | Easy |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/albindavidc/LeetCode/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -240,6 +241,7 @@
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/albindavidc/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/albindavidc/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/albindavidc/LeetCode/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
