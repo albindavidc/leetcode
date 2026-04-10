@@ -35,6 +35,7 @@
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/albindavidc/LeetCode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/albindavidc/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
+| [2460-apply-operations-to-an-array](https://github.com/albindavidc/LeetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -54,6 +55,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/albindavidc/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/albindavidc/LeetCode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
+| [2460-apply-operations-to-an-array](https://github.com/albindavidc/LeetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,6 +249,7 @@
 | [0832-flipping-an-image](https://github.com/albindavidc/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/albindavidc/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/albindavidc/LeetCode/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
+| [2460-apply-operations-to-an-array](https://github.com/albindavidc/LeetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
