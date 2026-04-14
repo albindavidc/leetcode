@@ -36,6 +36,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/albindavidc/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/albindavidc/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/albindavidc/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/albindavidc/LeetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/albindavidc/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
@@ -59,6 +60,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/albindavidc/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/albindavidc/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/albindavidc/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/albindavidc/LeetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/albindavidc/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
 ## Binary Search
@@ -164,6 +166,7 @@
 | [0846-hand-of-straights](https://github.com/albindavidc/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/albindavidc/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/albindavidc/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/albindavidc/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/albindavidc/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -231,6 +234,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/albindavidc/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/albindavidc/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
