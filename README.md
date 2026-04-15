@@ -40,6 +40,7 @@
 | [2460-apply-operations-to-an-array](https://github.com/albindavidc/LeetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/albindavidc/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
+| [2562-find-the-array-concatenation-value](https://github.com/albindavidc/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/albindavidc/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/albindavidc/LeetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/albindavidc/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
+| [2562-find-the-array-concatenation-value](https://github.com/albindavidc/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -264,6 +266,7 @@
 | [0844-backspace-string-compare](https://github.com/albindavidc/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/albindavidc/LeetCode/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/albindavidc/LeetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
+| [2562-find-the-array-concatenation-value](https://github.com/albindavidc/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
