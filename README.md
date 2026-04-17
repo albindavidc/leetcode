@@ -67,6 +67,7 @@
 | [2465-number-of-distinct-averages](https://github.com/albindavidc/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/albindavidc/LeetCode/tree/main/2511-maximum-enemy-forts-that-can-be-captured/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/albindavidc/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
+| [2697-lexicographically-smallest-palindrome](https://github.com/albindavidc/LeetCode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +134,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/albindavidc/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/albindavidc/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
+| [2697-lexicographically-smallest-palindrome](https://github.com/albindavidc/LeetCode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +155,7 @@
 | [0781-rabbits-in-forest](https://github.com/albindavidc/LeetCode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0846-hand-of-straights](https://github.com/albindavidc/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 | [0942-di-string-match](https://github.com/albindavidc/LeetCode/tree/main/0942-di-string-match/) | Easy |
+| [2697-lexicographically-smallest-palindrome](https://github.com/albindavidc/LeetCode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
