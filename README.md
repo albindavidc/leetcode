@@ -43,6 +43,7 @@
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/albindavidc/LeetCode/tree/main/2511-maximum-enemy-forts-that-can-be-captured/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/albindavidc/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/albindavidc/LeetCode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/albindavidc/LeetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@
 | [2562-find-the-array-concatenation-value](https://github.com/albindavidc/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/albindavidc/LeetCode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/albindavidc/LeetCode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/albindavidc/LeetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +99,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/albindavidc/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/albindavidc/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/albindavidc/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/albindavidc/LeetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
