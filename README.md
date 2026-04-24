@@ -78,6 +78,7 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/albindavidc/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/albindavidc/LeetCode/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/albindavidc/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/albindavidc/LeetCode/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +151,7 @@
 | [2697-lexicographically-smallest-palindrome](https://github.com/albindavidc/LeetCode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/albindavidc/LeetCode/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/albindavidc/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/albindavidc/LeetCode/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,6 +293,7 @@
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/albindavidc/LeetCode/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/albindavidc/LeetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/albindavidc/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/albindavidc/LeetCode/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
