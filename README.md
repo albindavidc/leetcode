@@ -79,6 +79,7 @@
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/albindavidc/LeetCode/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/albindavidc/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/albindavidc/LeetCode/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
+| [3884-first-matching-character-from-both-ends](https://github.com/albindavidc/LeetCode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +153,7 @@
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/albindavidc/LeetCode/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/albindavidc/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/albindavidc/LeetCode/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
+| [3884-first-matching-character-from-both-ends](https://github.com/albindavidc/LeetCode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
