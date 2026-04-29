@@ -46,6 +46,7 @@
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/albindavidc/LeetCode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/albindavidc/LeetCode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/albindavidc/LeetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/albindavidc/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/albindavidc/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -77,6 +78,7 @@
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/albindavidc/LeetCode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/albindavidc/LeetCode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/albindavidc/LeetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/albindavidc/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/albindavidc/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/albindavidc/LeetCode/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/albindavidc/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
@@ -90,6 +92,7 @@
 | [0658-find-k-closest-elements](https://github.com/albindavidc/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/albindavidc/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/albindavidc/LeetCode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/albindavidc/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +114,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/albindavidc/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/albindavidc/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/albindavidc/LeetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/albindavidc/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +181,7 @@
 | [0846-hand-of-straights](https://github.com/albindavidc/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 | [0942-di-string-match](https://github.com/albindavidc/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/albindavidc/LeetCode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/albindavidc/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
