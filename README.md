@@ -43,6 +43,7 @@
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/albindavidc/LeetCode/tree/main/2511-maximum-enemy-forts-that-can-be-captured/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/albindavidc/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/albindavidc/LeetCode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
+| [2869-minimum-operations-to-collect-elements](https://github.com/albindavidc/LeetCode/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/albindavidc/LeetCode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/albindavidc/LeetCode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/albindavidc/LeetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
@@ -202,6 +203,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/albindavidc/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/albindavidc/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/albindavidc/LeetCode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
+| [2869-minimum-operations-to-collect-elements](https://github.com/albindavidc/LeetCode/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -261,6 +263,7 @@
 | [0397-integer-replacement](https://github.com/albindavidc/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0401-binary-watch](https://github.com/albindavidc/LeetCode/tree/main/0401-binary-watch/) | Easy |
 | [0832-flipping-an-image](https://github.com/albindavidc/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
+| [2869-minimum-operations-to-collect-elements](https://github.com/albindavidc/LeetCode/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/albindavidc/LeetCode/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
