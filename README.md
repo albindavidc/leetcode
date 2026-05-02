@@ -243,6 +243,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/albindavidc/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0101-symmetric-tree](https://github.com/albindavidc/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0337-house-robber-iii](https://github.com/albindavidc/LeetCode/tree/main/0337-house-robber-iii/) | Medium |
 ## Binary Search Tree
@@ -254,6 +255,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/albindavidc/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0101-symmetric-tree](https://github.com/albindavidc/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0337-house-robber-iii](https://github.com/albindavidc/LeetCode/tree/main/0337-house-robber-iii/) | Medium |
 ## Prefix Sum
@@ -318,6 +320,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/albindavidc/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0279-perfect-squares](https://github.com/albindavidc/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/albindavidc/LeetCode/tree/main/0322-coin-change/) | Medium |
@@ -325,6 +328,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0101-symmetric-tree](https://github.com/albindavidc/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0337-house-robber-iii](https://github.com/albindavidc/LeetCode/tree/main/0337-house-robber-iii/) | Medium |
 ## Game Theory
