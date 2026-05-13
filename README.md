@@ -247,6 +247,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/albindavidc/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0101-symmetric-tree](https://github.com/albindavidc/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/albindavidc/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/albindavidc/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/albindavidc/LeetCode/tree/main/0112-path-sum/) | Easy |
@@ -264,6 +265,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/albindavidc/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0101-symmetric-tree](https://github.com/albindavidc/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/albindavidc/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/albindavidc/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/albindavidc/LeetCode/tree/main/0112-path-sum/) | Easy |
@@ -335,6 +337,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/albindavidc/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/albindavidc/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/albindavidc/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0279-perfect-squares](https://github.com/albindavidc/LeetCode/tree/main/0279-perfect-squares/) | Medium |
