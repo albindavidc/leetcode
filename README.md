@@ -5,6 +5,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/albindavidc/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/albindavidc/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/albindavidc/LeetCode/tree/main/0120-triangle/) | Medium |
@@ -197,6 +198,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0139-word-break](https://github.com/albindavidc/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0264-ugly-number-ii](https://github.com/albindavidc/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/albindavidc/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -253,6 +255,7 @@
 | [0101-symmetric-tree](https://github.com/albindavidc/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/albindavidc/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/albindavidc/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/albindavidc/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/albindavidc/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
@@ -278,6 +281,7 @@
 | [0101-symmetric-tree](https://github.com/albindavidc/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/albindavidc/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/albindavidc/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/albindavidc/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/albindavidc/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
@@ -314,6 +318,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/albindavidc/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/albindavidc/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/albindavidc/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
