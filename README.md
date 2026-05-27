@@ -162,6 +162,7 @@
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/albindavidc/LeetCode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/albindavidc/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/albindavidc/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/albindavidc/LeetCode/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/albindavidc/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/albindavidc/LeetCode/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
@@ -215,6 +216,7 @@
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/albindavidc/LeetCode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2869-minimum-operations-to-collect-elements](https://github.com/albindavidc/LeetCode/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/albindavidc/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/albindavidc/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
