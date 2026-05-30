@@ -17,9 +17,6 @@ var calculate = function (s) {
         }
         switch (num) {
             case '(': {
-                result += sign * curr
-                curr = 0
-
                 stack.push(result)
                 stack.push(sign)
 
