@@ -5,6 +5,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/albindavidc/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/albindavidc/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/albindavidc/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -56,6 +57,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/albindavidc/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/albindavidc/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0165-compare-version-numbers](https://github.com/albindavidc/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/albindavidc/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
