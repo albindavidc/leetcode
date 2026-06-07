@@ -4,16 +4,21 @@
  * @return {void} Do not return anything, modify nums in-place instead.
  */
 var rotate = function(nums, k) {
+    let n = nums.length;
 
-    k = k % nums.length
-    if(k === 0) return nums;
+    k %= n
 
-    let part1 = nums.slice(-k);
-    let part2 = nums.slice(0, nums.length - k);
-    let rotatedResult = part1.concat(part2);
-
-    for(let i =0; i<nums.length; i++){
-        nums[i] = rotatedResult[i]
+    for(let i = 0; i<Math.floor(n/2); i++){
+        [nums[i],nums[n-1-i]] = [nums[n-1-i], nums[i]]
     }
 
+    for(let i =0; i<Math.floor(k/2); i++){
+        [nums[i], nums[k-1-i]] = [nums[k-1-i], nums[i]]
+    }
+
+    for(let i = 0; i<Math.floor((n-k)/2); i++){
+        [nums[i+k], nums[n-1-i]] = [nums[n-1-i], nums[i+k]]
+    }
+
+    return nums
 };
