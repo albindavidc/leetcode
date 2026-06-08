@@ -343,6 +343,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/albindavidc/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0224-basic-calculator](https://github.com/albindavidc/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/albindavidc/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/albindavidc/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -425,6 +426,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/albindavidc/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/albindavidc/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/albindavidc/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/albindavidc/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
