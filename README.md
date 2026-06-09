@@ -226,6 +226,7 @@
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0139-word-break](https://github.com/albindavidc/LeetCode/tree/main/0139-word-break/) | Medium |
+| [0146-lru-cache](https://github.com/albindavidc/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0169-majority-element](https://github.com/albindavidc/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0264-ugly-number-ii](https://github.com/albindavidc/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/albindavidc/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -430,14 +431,20 @@
 | [0092-reverse-linked-list-ii](https://github.com/albindavidc/LeetCode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/albindavidc/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/albindavidc/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0146-lru-cache](https://github.com/albindavidc/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/albindavidc/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/albindavidc/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/albindavidc/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/albindavidc/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/albindavidc/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/albindavidc/LeetCode/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
