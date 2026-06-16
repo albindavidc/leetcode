@@ -2,15 +2,22 @@
  * @param {number[]} citations
  * @return {number}
  */
-var hIndex = function(citations) {
-    citations.sort((a,b) => b-a);
+var hIndex = function (citations) {
 
-    let h = 0;
-    for(let i =0; i<citations.length; i++){
-        if(citations[i] >= i+1){
-            h = i+1;
+    let count = 0;
+    for (let i = 1; i <= citations.length; i++) {
+        let innCount = 0;
+
+        for (let j = 0; j < citations.length; j++) {
+            if (citations[j] >= i){
+                innCount++;
+            }
+        }
+
+        if(innCount >= i){
+            count =  i
         }
     }
 
-    return h;
+    return count
 };
