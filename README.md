@@ -147,6 +147,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/albindavidc/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/albindavidc/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/albindavidc/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0189-rotate-array](https://github.com/albindavidc/LeetCode/tree/main/0189-rotate-array/) | Medium |
@@ -167,6 +168,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/albindavidc/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0139-word-break](https://github.com/albindavidc/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0165-compare-version-numbers](https://github.com/albindavidc/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0224-basic-calculator](https://github.com/albindavidc/LeetCode/tree/main/0224-basic-calculator/) | Hard |
@@ -226,6 +228,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/albindavidc/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0139-word-break](https://github.com/albindavidc/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0146-lru-cache](https://github.com/albindavidc/LeetCode/tree/main/0146-lru-cache/) | Medium |
