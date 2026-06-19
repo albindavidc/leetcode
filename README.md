@@ -34,6 +34,7 @@
 | [0621-task-scheduler](https://github.com/albindavidc/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/albindavidc/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/albindavidc/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0706-design-hashmap](https://github.com/albindavidc/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/albindavidc/LeetCode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0809-expressive-words](https://github.com/albindavidc/LeetCode/tree/main/0809-expressive-words/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/albindavidc/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
@@ -238,6 +239,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/albindavidc/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/albindavidc/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0621-task-scheduler](https://github.com/albindavidc/LeetCode/tree/main/0621-task-scheduler/) | Medium |
+| [0706-design-hashmap](https://github.com/albindavidc/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0763-partition-labels](https://github.com/albindavidc/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/albindavidc/LeetCode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0846-hand-of-straights](https://github.com/albindavidc/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
@@ -440,12 +442,14 @@
 | [0146-lru-cache](https://github.com/albindavidc/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0147-insertion-sort-list](https://github.com/albindavidc/LeetCode/tree/main/0147-insertion-sort-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/albindavidc/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0706-design-hashmap](https://github.com/albindavidc/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/albindavidc/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/albindavidc/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/albindavidc/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0706-design-hashmap](https://github.com/albindavidc/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -458,4 +462,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/albindavidc/LeetCode/tree/main/0274-h-index/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0706-design-hashmap](https://github.com/albindavidc/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 <!---LeetCode Topics End-->
