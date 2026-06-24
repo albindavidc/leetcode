@@ -151,6 +151,7 @@
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/albindavidc/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/albindavidc/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0067-add-binary](https://github.com/albindavidc/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/albindavidc/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0189-rotate-array](https://github.com/albindavidc/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0224-basic-calculator](https://github.com/albindavidc/LeetCode/tree/main/0224-basic-calculator/) | Hard |
@@ -172,6 +173,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/albindavidc/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0067-add-binary](https://github.com/albindavidc/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0139-word-break](https://github.com/albindavidc/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0165-compare-version-numbers](https://github.com/albindavidc/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0224-basic-calculator](https://github.com/albindavidc/LeetCode/tree/main/0224-basic-calculator/) | Hard |
@@ -344,6 +346,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/albindavidc/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/albindavidc/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0397-integer-replacement](https://github.com/albindavidc/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0401-binary-watch](https://github.com/albindavidc/LeetCode/tree/main/0401-binary-watch/) | Easy |
@@ -397,6 +400,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/albindavidc/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0067-add-binary](https://github.com/albindavidc/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0832-flipping-an-image](https://github.com/albindavidc/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/albindavidc/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/albindavidc/LeetCode/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
