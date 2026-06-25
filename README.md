@@ -347,6 +347,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/albindavidc/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0190-reverse-bits](https://github.com/albindavidc/LeetCode/tree/main/0190-reverse-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/albindavidc/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0397-integer-replacement](https://github.com/albindavidc/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0401-binary-watch](https://github.com/albindavidc/LeetCode/tree/main/0401-binary-watch/) | Easy |
@@ -374,6 +375,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/albindavidc/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/albindavidc/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0169-majority-element](https://github.com/albindavidc/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0190-reverse-bits](https://github.com/albindavidc/LeetCode/tree/main/0190-reverse-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/albindavidc/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/albindavidc/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0932-beautiful-array](https://github.com/albindavidc/LeetCode/tree/main/0932-beautiful-array/) | Medium |
