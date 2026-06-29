@@ -158,6 +158,7 @@
 | [0189-rotate-array](https://github.com/albindavidc/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0224-basic-calculator](https://github.com/albindavidc/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/albindavidc/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0263-ugly-number](https://github.com/albindavidc/LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/albindavidc/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/albindavidc/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0313-super-ugly-number](https://github.com/albindavidc/LeetCode/tree/main/0313-super-ugly-number/) | Medium |
