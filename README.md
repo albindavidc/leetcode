@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/albindavidc/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/albindavidc/LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/albindavidc/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/albindavidc/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/albindavidc/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/albindavidc/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -108,6 +109,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/albindavidc/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/albindavidc/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/albindavidc/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0278-first-bad-version](https://github.com/albindavidc/LeetCode/tree/main/0278-first-bad-version/) | Easy |
