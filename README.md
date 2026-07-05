@@ -175,6 +175,7 @@
 | [0367-valid-perfect-square](https://github.com/albindavidc/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/albindavidc/LeetCode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/albindavidc/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0382-linked-list-random-node](https://github.com/albindavidc/LeetCode/tree/main/0382-linked-list-random-node/) | Medium |
 | [0441-arranging-coins](https://github.com/albindavidc/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0492-construct-the-rectangle](https://github.com/albindavidc/LeetCode/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/albindavidc/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
@@ -467,6 +468,7 @@
 | [0146-lru-cache](https://github.com/albindavidc/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0147-insertion-sort-list](https://github.com/albindavidc/LeetCode/tree/main/0147-insertion-sort-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/albindavidc/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0382-linked-list-random-node](https://github.com/albindavidc/LeetCode/tree/main/0382-linked-list-random-node/) | Medium |
 | [0706-design-hashmap](https://github.com/albindavidc/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/albindavidc/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/albindavidc/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -480,6 +482,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/albindavidc/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0382-linked-list-random-node](https://github.com/albindavidc/LeetCode/tree/main/0382-linked-list-random-node/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -496,4 +499,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/albindavidc/LeetCode/tree/main/0278-first-bad-version/) | Easy |
+## Reservoir Sampling
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0382-linked-list-random-node](https://github.com/albindavidc/LeetCode/tree/main/0382-linked-list-random-node/) | Medium |
 <!---LeetCode Topics End-->
