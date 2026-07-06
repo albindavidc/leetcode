@@ -177,6 +177,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/albindavidc/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0382-linked-list-random-node](https://github.com/albindavidc/LeetCode/tree/main/0382-linked-list-random-node/) | Medium |
 | [0441-arranging-coins](https://github.com/albindavidc/LeetCode/tree/main/0441-arranging-coins/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/albindavidc/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/albindavidc/LeetCode/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/albindavidc/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/albindavidc/LeetCode/tree/main/0781-rabbits-in-forest/) | Medium |
@@ -223,6 +224,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0224-basic-calculator](https://github.com/albindavidc/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0402-remove-k-digits](https://github.com/albindavidc/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/albindavidc/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/albindavidc/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0844-backspace-string-compare](https://github.com/albindavidc/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/albindavidc/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -469,6 +471,7 @@
 | [0147-insertion-sort-list](https://github.com/albindavidc/LeetCode/tree/main/0147-insertion-sort-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/albindavidc/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0382-linked-list-random-node](https://github.com/albindavidc/LeetCode/tree/main/0382-linked-list-random-node/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/albindavidc/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0706-design-hashmap](https://github.com/albindavidc/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/albindavidc/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/albindavidc/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
