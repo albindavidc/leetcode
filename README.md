@@ -171,6 +171,7 @@
 | [0264-ugly-number-ii](https://github.com/albindavidc/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/albindavidc/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0313-super-ugly-number](https://github.com/albindavidc/LeetCode/tree/main/0313-super-ugly-number/) | Medium |
+| [0326-power-of-three](https://github.com/albindavidc/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0343-integer-break](https://github.com/albindavidc/LeetCode/tree/main/0343-integer-break/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/albindavidc/LeetCode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0367-valid-perfect-square](https://github.com/albindavidc/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
@@ -382,6 +383,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/albindavidc/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0224-basic-calculator](https://github.com/albindavidc/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/albindavidc/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0326-power-of-three](https://github.com/albindavidc/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/albindavidc/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
