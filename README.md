@@ -35,6 +35,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/albindavidc/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0500-keyboard-row](https://github.com/albindavidc/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/albindavidc/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/albindavidc/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0621-task-scheduler](https://github.com/albindavidc/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0622-design-circular-queue](https://github.com/albindavidc/LeetCode/tree/main/0622-design-circular-queue/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/albindavidc/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -129,6 +130,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/albindavidc/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/albindavidc/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/albindavidc/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/albindavidc/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Sorting
@@ -140,6 +142,7 @@
 | [0274-h-index](https://github.com/albindavidc/LeetCode/tree/main/0274-h-index/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/albindavidc/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/albindavidc/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/albindavidc/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0621-task-scheduler](https://github.com/albindavidc/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/albindavidc/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/albindavidc/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -264,6 +267,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/albindavidc/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/albindavidc/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0500-keyboard-row](https://github.com/albindavidc/LeetCode/tree/main/0500-keyboard-row/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/albindavidc/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0621-task-scheduler](https://github.com/albindavidc/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0706-design-hashmap](https://github.com/albindavidc/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0763-partition-labels](https://github.com/albindavidc/LeetCode/tree/main/0763-partition-labels/) | Medium |
@@ -281,6 +285,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/albindavidc/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/albindavidc/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0621-task-scheduler](https://github.com/albindavidc/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
