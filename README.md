@@ -34,6 +34,7 @@
 | [0324-wiggle-sort-ii](https://github.com/albindavidc/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/albindavidc/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/albindavidc/LeetCode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0500-keyboard-row](https://github.com/albindavidc/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/albindavidc/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/albindavidc/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -143,6 +144,7 @@
 | [0274-h-index](https://github.com/albindavidc/LeetCode/tree/main/0274-h-index/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/albindavidc/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/albindavidc/LeetCode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/albindavidc/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/albindavidc/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0621-task-scheduler](https://github.com/albindavidc/LeetCode/tree/main/0621-task-scheduler/) | Medium |
@@ -268,6 +270,7 @@
 | [0264-ugly-number-ii](https://github.com/albindavidc/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/albindavidc/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/albindavidc/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0500-keyboard-row](https://github.com/albindavidc/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/albindavidc/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0621-task-scheduler](https://github.com/albindavidc/LeetCode/tree/main/0621-task-scheduler/) | Medium |
