@@ -32,6 +32,7 @@
 | [0313-super-ugly-number](https://github.com/albindavidc/LeetCode/tree/main/0313-super-ugly-number/) | Medium |
 | [0322-coin-change](https://github.com/albindavidc/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/albindavidc/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/albindavidc/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/albindavidc/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/albindavidc/LeetCode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -123,6 +124,7 @@
 | [0278-first-bad-version](https://github.com/albindavidc/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/albindavidc/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0367-valid-perfect-square](https://github.com/albindavidc/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/albindavidc/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0441-arranging-coins](https://github.com/albindavidc/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/albindavidc/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/albindavidc/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -143,6 +145,7 @@
 | [0169-majority-element](https://github.com/albindavidc/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0274-h-index](https://github.com/albindavidc/LeetCode/tree/main/0274-h-index/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/albindavidc/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/albindavidc/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/albindavidc/LeetCode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/albindavidc/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
@@ -162,6 +165,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0264-ugly-number-ii](https://github.com/albindavidc/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/albindavidc/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0621-task-scheduler](https://github.com/albindavidc/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/albindavidc/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Math
@@ -433,6 +437,7 @@
 | [0074-search-a-2d-matrix](https://github.com/albindavidc/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0221-maximal-square](https://github.com/albindavidc/LeetCode/tree/main/0221-maximal-square/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/albindavidc/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/albindavidc/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0832-flipping-an-image](https://github.com/albindavidc/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/albindavidc/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Simulation
