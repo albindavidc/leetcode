@@ -45,6 +45,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/albindavidc/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/albindavidc/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0706-design-hashmap](https://github.com/albindavidc/LeetCode/tree/main/0706-design-hashmap/) | Easy |
+| [0720-longest-word-in-dictionary](https://github.com/albindavidc/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0781-rabbits-in-forest](https://github.com/albindavidc/LeetCode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0809-expressive-words](https://github.com/albindavidc/LeetCode/tree/main/0809-expressive-words/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/albindavidc/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
@@ -155,6 +156,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/albindavidc/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/albindavidc/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/albindavidc/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0720-longest-word-in-dictionary](https://github.com/albindavidc/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0846-hand-of-straights](https://github.com/albindavidc/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/albindavidc/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/albindavidc/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -216,6 +218,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/albindavidc/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0500-keyboard-row](https://github.com/albindavidc/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/albindavidc/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
+| [0720-longest-word-in-dictionary](https://github.com/albindavidc/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0763-partition-labels](https://github.com/albindavidc/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0809-expressive-words](https://github.com/albindavidc/LeetCode/tree/main/0809-expressive-words/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/albindavidc/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
@@ -282,6 +285,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/albindavidc/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0621-task-scheduler](https://github.com/albindavidc/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0706-design-hashmap](https://github.com/albindavidc/LeetCode/tree/main/0706-design-hashmap/) | Easy |
+| [0720-longest-word-in-dictionary](https://github.com/albindavidc/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0763-partition-labels](https://github.com/albindavidc/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/albindavidc/LeetCode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0846-hand-of-straights](https://github.com/albindavidc/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
@@ -458,6 +462,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/albindavidc/LeetCode/tree/main/0139-word-break/) | Medium |
+| [0720-longest-word-in-dictionary](https://github.com/albindavidc/leetcode/tree/master/0720-longest-word-in-dictionary) |
 ## Breadth-First Search
 |  |
 | ------- |
