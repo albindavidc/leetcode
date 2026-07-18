@@ -58,6 +58,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/albindavidc/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/albindavidc/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/albindavidc/LeetCode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/albindavidc/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/albindavidc/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/albindavidc/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
@@ -203,6 +204,7 @@
 | [0932-beautiful-array](https://github.com/albindavidc/LeetCode/tree/main/0932-beautiful-array/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/albindavidc/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/albindavidc/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/albindavidc/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/albindavidc/LeetCode/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/albindavidc/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## String
@@ -556,4 +558,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/albindavidc/LeetCode/tree/main/0796-rotate-string/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/albindavidc/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
