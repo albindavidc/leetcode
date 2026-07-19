@@ -36,6 +36,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/albindavidc/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/albindavidc/LeetCode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0463-island-perimeter](https://github.com/albindavidc/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0500-keyboard-row](https://github.com/albindavidc/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/albindavidc/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/albindavidc/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -448,6 +449,7 @@
 | [0221-maximal-square](https://github.com/albindavidc/LeetCode/tree/main/0221-maximal-square/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/albindavidc/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/albindavidc/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0463-island-perimeter](https://github.com/albindavidc/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0832-flipping-an-image](https://github.com/albindavidc/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/albindavidc/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Simulation
@@ -477,6 +479,7 @@
 | [0112-path-sum](https://github.com/albindavidc/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0279-perfect-squares](https://github.com/albindavidc/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/albindavidc/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0463-island-perimeter](https://github.com/albindavidc/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -489,6 +492,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0337-house-robber-iii](https://github.com/albindavidc/LeetCode/tree/main/0337-house-robber-iii/) | Medium |
+| [0463-island-perimeter](https://github.com/albindavidc/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
