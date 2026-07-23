@@ -223,6 +223,7 @@
 | [0165-compare-version-numbers](https://github.com/albindavidc/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0224-basic-calculator](https://github.com/albindavidc/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/albindavidc/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0257-binary-tree-paths](https://github.com/albindavidc/leetcode/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/albindavidc/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/albindavidc/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0500-keyboard-row](https://github.com/albindavidc/LeetCode/tree/main/0500-keyboard-row/) | Easy |
@@ -342,6 +343,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/albindavidc/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0257-binary-tree-paths](https://github.com/albindavidc/leetcode/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/albindavidc/LeetCode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0401-binary-watch](https://github.com/albindavidc/LeetCode/tree/main/0401-binary-watch/) | Easy |
 ## Tree
@@ -364,6 +366,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/albindavidc/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0257-binary-tree-paths](https://github.com/albindavidc/leetcode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/albindavidc/LeetCode/tree/main/0337-house-robber-iii/) | Medium |
 ## Binary Search Tree
 |  |
@@ -392,6 +395,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/albindavidc/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0257-binary-tree-paths](https://github.com/albindavidc/leetcode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/albindavidc/LeetCode/tree/main/0337-house-robber-iii/) | Medium |
 ## Prefix Sum
 |  |
@@ -498,6 +502,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/albindavidc/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0257-binary-tree-paths](https://github.com/albindavidc/leetcode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/albindavidc/LeetCode/tree/main/0337-house-robber-iii/) | Medium |
 | [0463-island-perimeter](https://github.com/albindavidc/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 ## Game Theory
