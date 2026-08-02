@@ -254,6 +254,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/albindavidc/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/albindavidc/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0224-basic-calculator](https://github.com/albindavidc/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0402-remove-k-digits](https://github.com/albindavidc/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/albindavidc/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -371,6 +372,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/albindavidc/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/albindavidc/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/albindavidc/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/albindavidc/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/albindavidc/leetcode/tree/master/0257-binary-tree-paths) |
@@ -389,6 +391,7 @@
 | [0099-recover-binary-search-tree](https://github.com/albindavidc/LeetCode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/albindavidc/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/albindavidc/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/albindavidc/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/albindavidc/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/albindavidc/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/albindavidc/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -416,6 +419,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/albindavidc/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/albindavidc/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/albindavidc/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/albindavidc/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/albindavidc/leetcode/tree/master/0257-binary-tree-paths) |
@@ -576,6 +580,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/albindavidc/LeetCode/tree/main/0146-lru-cache/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/albindavidc/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/albindavidc/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0622-design-circular-queue](https://github.com/albindavidc/LeetCode/tree/main/0622-design-circular-queue/) | Medium |
 | [0706-design-hashmap](https://github.com/albindavidc/LeetCode/tree/main/0706-design-hashmap/) | Easy |
@@ -628,4 +633,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/albindavidc/leetcode/tree/master/0812-largest-triangle-area) |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/albindavidc/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
