@@ -385,6 +385,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/albindavidc/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/albindavidc/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/albindavidc/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -433,6 +434,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/albindavidc/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/albindavidc/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/albindavidc/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -532,6 +534,7 @@
 | [0463-island-perimeter](https://github.com/albindavidc/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/albindavidc/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/albindavidc/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/albindavidc/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -558,6 +561,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/albindavidc/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/albindavidc/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/albindavidc/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
