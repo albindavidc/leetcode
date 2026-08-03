@@ -384,6 +384,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/albindavidc/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/albindavidc/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/albindavidc/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -431,6 +432,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/albindavidc/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/albindavidc/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/albindavidc/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -555,6 +557,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/albindavidc/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/albindavidc/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/albindavidc/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -602,6 +605,7 @@
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/albindavidc/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0706-design-hashmap](https://github.com/albindavidc/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
@@ -626,6 +630,7 @@
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/albindavidc/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0796-rotate-string](https://github.com/albindavidc/LeetCode/tree/main/0796-rotate-string/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
