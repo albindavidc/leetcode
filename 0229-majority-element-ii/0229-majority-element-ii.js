@@ -5,7 +5,7 @@
 var majorityElement = function (nums) {
     let count = 1;
 
-    nums = nums.sort((a,b) => a-b)
+    nums = nums.sort((a, b) => a - b)
 
     let result = []
 
