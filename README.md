@@ -36,6 +36,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/albindavidc/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/albindavidc/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/albindavidc/LeetCode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
+| [0436-find-right-interval](https://github.com/albindavidc/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0463-island-perimeter](https://github.com/albindavidc/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0500-keyboard-row](https://github.com/albindavidc/LeetCode/tree/main/0500-keyboard-row/) | Easy |
@@ -134,6 +135,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/albindavidc/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0367-valid-perfect-square](https://github.com/albindavidc/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/albindavidc/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0436-find-right-interval](https://github.com/albindavidc/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0441-arranging-coins](https://github.com/albindavidc/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/albindavidc/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/albindavidc/LeetCode/tree/main/0704-binary-search/) | Easy |
@@ -159,6 +161,7 @@
 | [0324-wiggle-sort-ii](https://github.com/albindavidc/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/albindavidc/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/albindavidc/LeetCode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
+| [0436-find-right-interval](https://github.com/albindavidc/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/albindavidc/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/albindavidc/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
