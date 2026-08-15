@@ -53,6 +53,7 @@
 | [0704-binary-search](https://github.com/albindavidc/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0706-design-hashmap](https://github.com/albindavidc/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/albindavidc/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/albindavidc/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/albindavidc/LeetCode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0809-expressive-words](https://github.com/albindavidc/LeetCode/tree/main/0809-expressive-words/) | Medium |
 | [0812-largest-triangle-area](https://github.com/albindavidc/leetcode/tree/master/0812-largest-triangle-area) |
@@ -176,6 +177,7 @@
 | [0658-find-k-closest-elements](https://github.com/albindavidc/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/albindavidc/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/albindavidc/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/albindavidc/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0846-hand-of-straights](https://github.com/albindavidc/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/albindavidc/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/albindavidc/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -253,6 +255,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/albindavidc/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/albindavidc/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/albindavidc/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0763-partition-labels](https://github.com/albindavidc/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0796-rotate-string](https://github.com/albindavidc/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0809-expressive-words](https://github.com/albindavidc/LeetCode/tree/main/0809-expressive-words/) | Medium |
@@ -325,6 +328,7 @@
 | [0692-top-k-frequent-words](https://github.com/albindavidc/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0706-design-hashmap](https://github.com/albindavidc/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/albindavidc/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/albindavidc/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0763-partition-labels](https://github.com/albindavidc/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/albindavidc/LeetCode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0846-hand-of-straights](https://github.com/albindavidc/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
@@ -583,6 +587,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/albindavidc/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/albindavidc/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0721-accounts-merge](https://github.com/albindavidc/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -615,6 +620,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/albindavidc/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0721-accounts-merge](https://github.com/albindavidc/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -716,4 +722,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/albindavidc/leetcode/tree/main/0229-majority-element-ii/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0721-accounts-merge](https://github.com/albindavidc/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 <!---LeetCode Topics End-->
