@@ -40,6 +40,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0463-island-perimeter](https://github.com/albindavidc/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0500-keyboard-row](https://github.com/albindavidc/LeetCode/tree/main/0500-keyboard-row/) | Easy |
+| [0539-minimum-time-difference](https://github.com/albindavidc/LeetCode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/albindavidc/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/albindavidc/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0621-task-scheduler](https://github.com/albindavidc/LeetCode/tree/main/0621-task-scheduler/) | Medium |
@@ -164,6 +165,7 @@
 | [0436-find-right-interval](https://github.com/albindavidc/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/albindavidc/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0539-minimum-time-difference](https://github.com/albindavidc/LeetCode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/albindavidc/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/albindavidc/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0621-task-scheduler](https://github.com/albindavidc/LeetCode/tree/main/0621-task-scheduler/) | Medium |
@@ -217,6 +219,7 @@
 | [0441-arranging-coins](https://github.com/albindavidc/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/albindavidc/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/albindavidc/LeetCode/tree/main/0492-construct-the-rectangle/) | Easy |
+| [0539-minimum-time-difference](https://github.com/albindavidc/LeetCode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/albindavidc/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/albindavidc/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0781-rabbits-in-forest](https://github.com/albindavidc/LeetCode/tree/main/0781-rabbits-in-forest/) | Medium |
@@ -242,6 +245,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/albindavidc/LeetCode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/albindavidc/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0500-keyboard-row](https://github.com/albindavidc/LeetCode/tree/main/0500-keyboard-row/) | Easy |
+| [0539-minimum-time-difference](https://github.com/albindavidc/LeetCode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/albindavidc/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0606-construct-string-from-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/albindavidc/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
