@@ -223,6 +223,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/albindavidc/LeetCode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/albindavidc/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0382-linked-list-random-node](https://github.com/albindavidc/LeetCode/tree/main/0382-linked-list-random-node/) | Medium |
+| [0398-random-pick-index](https://github.com/albindavidc/LeetCode/tree/main/0398-random-pick-index/) | Medium |
 | [0441-arranging-coins](https://github.com/albindavidc/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/albindavidc/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/albindavidc/LeetCode/tree/main/0492-construct-the-rectangle/) | Easy |
@@ -323,6 +324,7 @@
 | [0229-majority-element-ii](https://github.com/albindavidc/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0264-ugly-number-ii](https://github.com/albindavidc/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/albindavidc/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0398-random-pick-index](https://github.com/albindavidc/LeetCode/tree/main/0398-random-pick-index/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/albindavidc/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/albindavidc/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -665,6 +667,7 @@
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/albindavidc/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0382-linked-list-random-node](https://github.com/albindavidc/LeetCode/tree/main/0382-linked-list-random-node/) | Medium |
+| [0398-random-pick-index](https://github.com/albindavidc/LeetCode/tree/main/0398-random-pick-index/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -686,6 +689,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0382-linked-list-random-node](https://github.com/albindavidc/LeetCode/tree/main/0382-linked-list-random-node/) | Medium |
+| [0398-random-pick-index](https://github.com/albindavidc/LeetCode/tree/main/0398-random-pick-index/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
