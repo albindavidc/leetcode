@@ -601,6 +601,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/albindavidc/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/albindavidc/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0684-redundant-connection](https://github.com/albindavidc/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/albindavidc/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -637,6 +638,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/albindavidc/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0684-redundant-connection](https://github.com/albindavidc/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/albindavidc/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -748,9 +750,11 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/albindavidc/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0684-redundant-connection](https://github.com/albindavidc/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/albindavidc/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/albindavidc/LeetCode/tree/main/0133-clone-graph/) | Medium |
+| [0684-redundant-connection](https://github.com/albindavidc/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 <!---LeetCode Topics End-->
