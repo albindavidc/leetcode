@@ -259,6 +259,7 @@
 | [0556-next-greater-element-iii](https://github.com/albindavidc/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0606-construct-string-from-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0648-replace-words](https://github.com/albindavidc/LeetCode/tree/main/0648-replace-words/) | Medium |
+| [0676-implement-magic-dictionary](https://github.com/albindavidc/LeetCode/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/albindavidc/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/albindavidc/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/albindavidc/LeetCode/tree/main/0721-accounts-merge/) | Medium |
@@ -336,6 +337,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/albindavidc/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0621-task-scheduler](https://github.com/albindavidc/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0648-replace-words](https://github.com/albindavidc/LeetCode/tree/main/0648-replace-words/) | Medium |
+| [0676-implement-magic-dictionary](https://github.com/albindavidc/LeetCode/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/albindavidc/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0706-design-hashmap](https://github.com/albindavidc/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/albindavidc/leetcode/tree/master/0720-longest-word-in-dictionary) |
@@ -581,6 +583,7 @@
 | [0139-word-break](https://github.com/albindavidc/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/albindavidc/LeetCode/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0648-replace-words](https://github.com/albindavidc/LeetCode/tree/main/0648-replace-words/) | Medium |
+| [0676-implement-magic-dictionary](https://github.com/albindavidc/LeetCode/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/albindavidc/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/albindavidc/leetcode/tree/master/0720-longest-word-in-dictionary) |
 ## Breadth-First Search
@@ -644,6 +647,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/albindavidc/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0676-implement-magic-dictionary](https://github.com/albindavidc/LeetCode/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0684-redundant-connection](https://github.com/albindavidc/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/albindavidc/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 ## Game Theory
@@ -679,6 +683,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/albindavidc/LeetCode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0622-design-circular-queue](https://github.com/albindavidc/LeetCode/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/albindavidc/LeetCode/tree/main/0641-design-circular-deque/) | Medium |
+| [0676-implement-magic-dictionary](https://github.com/albindavidc/LeetCode/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/albindavidc/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0706-design-hashmap](https://github.com/albindavidc/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 ## Randomized
