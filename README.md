@@ -85,6 +85,7 @@
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/albindavidc/LeetCode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2869-minimum-operations-to-collect-elements](https://github.com/albindavidc/LeetCode/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/albindavidc/LeetCode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
+| [2932-maximum-strong-pair-xor-i](https://github.com/albindavidc/LeetCode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/albindavidc/LeetCode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/albindavidc/LeetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/albindavidc/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -157,6 +158,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/albindavidc/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/albindavidc/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/albindavidc/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [2932-maximum-strong-pair-xor-i](https://github.com/albindavidc/LeetCode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -351,6 +353,7 @@
 | [2465-number-of-distinct-averages](https://github.com/albindavidc/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/albindavidc/LeetCode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2869-minimum-operations-to-collect-elements](https://github.com/albindavidc/LeetCode/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
+| [2932-maximum-strong-pair-xor-i](https://github.com/albindavidc/LeetCode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/albindavidc/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/albindavidc/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Counting
@@ -515,6 +518,7 @@
 | [0476-number-complement](https://github.com/albindavidc/LeetCode/tree/main/0476-number-complement/) | Easy |
 | [0832-flipping-an-image](https://github.com/albindavidc/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [2869-minimum-operations-to-collect-elements](https://github.com/albindavidc/LeetCode/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
+| [2932-maximum-strong-pair-xor-i](https://github.com/albindavidc/LeetCode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/albindavidc/LeetCode/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -586,6 +590,7 @@
 | [0676-implement-magic-dictionary](https://github.com/albindavidc/LeetCode/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/albindavidc/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/albindavidc/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/albindavidc/LeetCode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
