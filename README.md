@@ -87,6 +87,7 @@
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/albindavidc/LeetCode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/albindavidc/LeetCode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/albindavidc/LeetCode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/albindavidc/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/albindavidc/LeetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/albindavidc/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/albindavidc/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -277,6 +278,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/albindavidc/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/albindavidc/LeetCode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/albindavidc/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/albindavidc/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/albindavidc/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/albindavidc/LeetCode/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
@@ -591,6 +593,7 @@
 | [0692-top-k-frequent-words](https://github.com/albindavidc/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/albindavidc/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/albindavidc/LeetCode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/albindavidc/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -710,6 +713,7 @@
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/albindavidc/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0706-design-hashmap](https://github.com/albindavidc/LeetCode/tree/main/0706-design-hashmap/) | Easy |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/albindavidc/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -737,6 +741,7 @@
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/albindavidc/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0796-rotate-string](https://github.com/albindavidc/LeetCode/tree/main/0796-rotate-string/) | Easy |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/albindavidc/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -773,4 +778,8 @@
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/albindavidc/LeetCode/tree/main/0133-clone-graph/) | Medium |
 | [0684-redundant-connection](https://github.com/albindavidc/LeetCode/tree/main/0684-redundant-connection/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/albindavidc/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 <!---LeetCode Topics End-->
