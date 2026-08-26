@@ -68,6 +68,7 @@
 | [0932-beautiful-array](https://github.com/albindavidc/LeetCode/tree/main/0932-beautiful-array/) | Medium |
 | [0942-di-string-match](https://github.com/albindavidc/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/albindavidc/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/albindavidc/LeetCode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/albindavidc/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/albindavidc/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/albindavidc/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -272,6 +273,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/albindavidc/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0844-backspace-string-compare](https://github.com/albindavidc/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0942-di-string-match](https://github.com/albindavidc/LeetCode/tree/main/0942-di-string-match/) | Easy |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/albindavidc/LeetCode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/albindavidc/LeetCode/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/albindavidc/LeetCode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/albindavidc/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -592,6 +594,7 @@
 | [0676-implement-magic-dictionary](https://github.com/albindavidc/LeetCode/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/albindavidc/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/albindavidc/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/albindavidc/LeetCode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/albindavidc/LeetCode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/albindavidc/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 ## Breadth-First Search
@@ -658,6 +661,7 @@
 | [0676-implement-magic-dictionary](https://github.com/albindavidc/LeetCode/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0684-redundant-connection](https://github.com/albindavidc/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/albindavidc/LeetCode/tree/main/0721-accounts-merge/) | Medium |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/albindavidc/LeetCode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
