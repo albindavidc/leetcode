@@ -611,6 +611,7 @@
 | [0133-clone-graph](https://github.com/albindavidc/LeetCode/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/albindavidc/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0279-perfect-squares](https://github.com/albindavidc/LeetCode/tree/main/0279-perfect-squares/) | Medium |
+| [0310-minimum-height-trees](https://github.com/albindavidc/LeetCode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0322-coin-change](https://github.com/albindavidc/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/albindavidc/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/albindavidc/LeetCode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
@@ -643,6 +644,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/albindavidc/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/albindavidc/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/albindavidc/leetcode/tree/master/0257-binary-tree-paths) |
+| [0310-minimum-height-trees](https://github.com/albindavidc/LeetCode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0337-house-robber-iii](https://github.com/albindavidc/LeetCode/tree/main/0337-house-robber-iii/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/albindavidc/LeetCode/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/albindavidc/leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -781,9 +783,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/albindavidc/LeetCode/tree/main/0133-clone-graph/) | Medium |
+| [0310-minimum-height-trees](https://github.com/albindavidc/LeetCode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0684-redundant-connection](https://github.com/albindavidc/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/albindavidc/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0310-minimum-height-trees](https://github.com/albindavidc/LeetCode/tree/main/0310-minimum-height-trees/) | Medium |
 <!---LeetCode Topics End-->
