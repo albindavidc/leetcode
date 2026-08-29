@@ -296,6 +296,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/albindavidc/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0224-basic-calculator](https://github.com/albindavidc/LeetCode/tree/main/0224-basic-calculator/) | Hard |
+| [0341-flatten-nested-list-iterator](https://github.com/albindavidc/LeetCode/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0402-remove-k-digits](https://github.com/albindavidc/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/albindavidc/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/albindavidc/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -433,6 +434,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/albindavidc/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/albindavidc/leetcode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/albindavidc/LeetCode/tree/main/0337-house-robber-iii/) | Medium |
+| [0341-flatten-nested-list-iterator](https://github.com/albindavidc/LeetCode/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/albindavidc/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/albindavidc/LeetCode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/albindavidc/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
@@ -648,6 +650,7 @@
 | [0257-binary-tree-paths](https://github.com/albindavidc/leetcode/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/albindavidc/LeetCode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0337-house-robber-iii](https://github.com/albindavidc/LeetCode/tree/main/0337-house-robber-iii/) | Medium |
+| [0341-flatten-nested-list-iterator](https://github.com/albindavidc/LeetCode/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/albindavidc/LeetCode/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/albindavidc/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/albindavidc/LeetCode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
@@ -695,6 +698,7 @@
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/albindavidc/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/albindavidc/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0341-flatten-nested-list-iterator](https://github.com/albindavidc/LeetCode/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/albindavidc/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/albindavidc/LeetCode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0622-design-circular-queue](https://github.com/albindavidc/LeetCode/tree/main/0622-design-circular-queue/) | Medium |
@@ -734,6 +738,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/albindavidc/LeetCode/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0622-design-circular-queue](https://github.com/albindavidc/LeetCode/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/albindavidc/LeetCode/tree/main/0641-design-circular-deque/) | Medium |
 ## Binary Indexed Tree
@@ -762,6 +767,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/albindavidc/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0341-flatten-nested-list-iterator](https://github.com/albindavidc/LeetCode/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
