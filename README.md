@@ -251,6 +251,7 @@
 | [0067-add-binary](https://github.com/albindavidc/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0139-word-break](https://github.com/albindavidc/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0165-compare-version-numbers](https://github.com/albindavidc/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/albindavidc/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0224-basic-calculator](https://github.com/albindavidc/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/albindavidc/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0257-binary-tree-paths](https://github.com/albindavidc/leetcode/tree/master/0257-binary-tree-paths) |
@@ -592,6 +593,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/albindavidc/LeetCode/tree/main/0139-word-break/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/albindavidc/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/albindavidc/LeetCode/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0648-replace-words](https://github.com/albindavidc/LeetCode/tree/main/0648-replace-words/) | Medium |
 | [0676-implement-magic-dictionary](https://github.com/albindavidc/LeetCode/tree/main/0676-implement-magic-dictionary/) | Medium |
@@ -647,6 +649,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/albindavidc/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0210-course-schedule-ii](https://github.com/albindavidc/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/albindavidc/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/albindavidc/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/albindavidc/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/albindavidc/leetcode/tree/master/0257-binary-tree-paths) |
@@ -700,6 +703,7 @@
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/albindavidc/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/albindavidc/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/albindavidc/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0341-flatten-nested-list-iterator](https://github.com/albindavidc/LeetCode/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/albindavidc/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/albindavidc/LeetCode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
