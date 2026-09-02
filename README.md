@@ -255,6 +255,7 @@
 | [0224-basic-calculator](https://github.com/albindavidc/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/albindavidc/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0257-binary-tree-paths](https://github.com/albindavidc/leetcode/tree/master/0257-binary-tree-paths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0402-remove-k-digits](https://github.com/albindavidc/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/albindavidc/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/albindavidc/LeetCode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
@@ -297,6 +298,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/albindavidc/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0224-basic-calculator](https://github.com/albindavidc/LeetCode/tree/main/0224-basic-calculator/) | Hard |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0341-flatten-nested-list-iterator](https://github.com/albindavidc/LeetCode/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0402-remove-k-digits](https://github.com/albindavidc/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/albindavidc/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -434,6 +436,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/albindavidc/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/albindavidc/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/albindavidc/leetcode/tree/master/0257-binary-tree-paths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/albindavidc/LeetCode/tree/main/0337-house-robber-iii/) | Medium |
 | [0341-flatten-nested-list-iterator](https://github.com/albindavidc/LeetCode/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/albindavidc/leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -496,6 +499,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/albindavidc/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/albindavidc/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/albindavidc/leetcode/tree/master/0257-binary-tree-paths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/albindavidc/LeetCode/tree/main/0337-house-robber-iii/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/albindavidc/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/albindavidc/LeetCode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
