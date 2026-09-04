@@ -105,6 +105,7 @@
 | [0189-rotate-array](https://github.com/albindavidc/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/albindavidc/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/albindavidc/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/albindavidc/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/albindavidc/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0763-partition-labels](https://github.com/albindavidc/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0809-expressive-words](https://github.com/albindavidc/LeetCode/tree/main/0809-expressive-words/) | Medium |
@@ -151,6 +152,7 @@
 | [0436-find-right-interval](https://github.com/albindavidc/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0441-arranging-coins](https://github.com/albindavidc/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/albindavidc/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/albindavidc/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/albindavidc/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/albindavidc/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/albindavidc/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -240,6 +242,7 @@
 | [0539-minimum-time-difference](https://github.com/albindavidc/LeetCode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/albindavidc/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/albindavidc/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/albindavidc/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/albindavidc/LeetCode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0812-largest-triangle-area](https://github.com/albindavidc/leetcode/tree/master/0812-largest-triangle-area) |
 | [0932-beautiful-array](https://github.com/albindavidc/LeetCode/tree/main/0932-beautiful-array/) | Medium |
