@@ -45,6 +45,7 @@
 | [0500-keyboard-row](https://github.com/albindavidc/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/albindavidc/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0539-minimum-time-difference](https://github.com/albindavidc/LeetCode/tree/main/0539-minimum-time-difference/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/albindavidc/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/albindavidc/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/albindavidc/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0621-task-scheduler](https://github.com/albindavidc/LeetCode/tree/main/0621-task-scheduler/) | Medium |
@@ -149,6 +150,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/albindavidc/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0436-find-right-interval](https://github.com/albindavidc/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0441-arranging-coins](https://github.com/albindavidc/LeetCode/tree/main/0441-arranging-coins/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/albindavidc/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/albindavidc/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/albindavidc/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/albindavidc/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
