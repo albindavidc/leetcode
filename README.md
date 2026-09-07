@@ -68,6 +68,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/albindavidc/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/albindavidc/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0846-hand-of-straights](https://github.com/albindavidc/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
+| [0888-fair-candy-swap](https://github.com/albindavidc/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/albindavidc/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0932-beautiful-array](https://github.com/albindavidc/LeetCode/tree/main/0932-beautiful-array/) | Medium |
 | [0942-di-string-match](https://github.com/albindavidc/LeetCode/tree/main/0942-di-string-match/) | Easy |
@@ -160,6 +161,7 @@
 | [0704-binary-search](https://github.com/albindavidc/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/albindavidc/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0754-reach-a-number](https://github.com/albindavidc/LeetCode/tree/main/0754-reach-a-number/) | Medium |
+| [0888-fair-candy-swap](https://github.com/albindavidc/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/albindavidc/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/albindavidc/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/albindavidc/LeetCode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
@@ -199,6 +201,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/albindavidc/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/albindavidc/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0846-hand-of-straights](https://github.com/albindavidc/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
+| [0888-fair-candy-swap](https://github.com/albindavidc/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/albindavidc/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/albindavidc/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/albindavidc/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -370,6 +373,7 @@
 | [0763-partition-labels](https://github.com/albindavidc/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/albindavidc/LeetCode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0846-hand-of-straights](https://github.com/albindavidc/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
+| [0888-fair-candy-swap](https://github.com/albindavidc/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/albindavidc/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/albindavidc/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/albindavidc/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
