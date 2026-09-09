@@ -39,6 +39,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/albindavidc/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/albindavidc/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/albindavidc/LeetCode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
+| [0427-construct-quad-tree](https://github.com/albindavidc/LeetCode/tree/main/0427-construct-quad-tree/) | Medium |
 | [0436-find-right-interval](https://github.com/albindavidc/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0463-island-perimeter](https://github.com/albindavidc/LeetCode/tree/main/0463-island-perimeter/) | Easy |
@@ -460,6 +461,7 @@
 | [0337-house-robber-iii](https://github.com/albindavidc/LeetCode/tree/main/0337-house-robber-iii/) | Medium |
 | [0341-flatten-nested-list-iterator](https://github.com/albindavidc/LeetCode/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/albindavidc/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0427-construct-quad-tree](https://github.com/albindavidc/LeetCode/tree/main/0427-construct-quad-tree/) | Medium |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/albindavidc/LeetCode/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/albindavidc/LeetCode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/albindavidc/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
@@ -578,6 +580,7 @@
 | [0190-reverse-bits](https://github.com/albindavidc/LeetCode/tree/main/0190-reverse-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/albindavidc/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/albindavidc/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0427-construct-quad-tree](https://github.com/albindavidc/LeetCode/tree/main/0427-construct-quad-tree/) | Medium |
 | [0932-beautiful-array](https://github.com/albindavidc/LeetCode/tree/main/0932-beautiful-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -599,6 +602,7 @@
 | [0221-maximal-square](https://github.com/albindavidc/LeetCode/tree/main/0221-maximal-square/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/albindavidc/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/albindavidc/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0427-construct-quad-tree](https://github.com/albindavidc/LeetCode/tree/main/0427-construct-quad-tree/) | Medium |
 | [0463-island-perimeter](https://github.com/albindavidc/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0832-flipping-an-image](https://github.com/albindavidc/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/albindavidc/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
