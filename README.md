@@ -76,6 +76,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/albindavidc/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0932-beautiful-array](https://github.com/albindavidc/LeetCode/tree/main/0932-beautiful-array/) | Medium |
 | [0942-di-string-match](https://github.com/albindavidc/LeetCode/tree/main/0942-di-string-match/) | Easy |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/albindavidc/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/albindavidc/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/albindavidc/LeetCode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/albindavidc/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -169,6 +170,7 @@
 | [0786-k-th-smallest-prime-fraction](https://github.com/albindavidc/LeetCode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/albindavidc/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0888-fair-candy-swap](https://github.com/albindavidc/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/albindavidc/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/albindavidc/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/albindavidc/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/albindavidc/LeetCode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
