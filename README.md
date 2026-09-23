@@ -66,6 +66,7 @@
 | [0721-accounts-merge](https://github.com/albindavidc/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/albindavidc/LeetCode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/albindavidc/LeetCode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/albindavidc/LeetCode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0809-expressive-words](https://github.com/albindavidc/LeetCode/tree/main/0809-expressive-words/) | Medium |
 | [0812-largest-triangle-area](https://github.com/albindavidc/leetcode/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/albindavidc/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
@@ -351,6 +352,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/albindavidc/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0763-partition-labels](https://github.com/albindavidc/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/albindavidc/LeetCode/tree/main/0781-rabbits-in-forest/) | Medium |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/albindavidc/LeetCode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0846-hand-of-straights](https://github.com/albindavidc/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 | [0942-di-string-match](https://github.com/albindavidc/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/albindavidc/LeetCode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
@@ -628,6 +630,7 @@
 | [0419-battleships-in-a-board](https://github.com/albindavidc/LeetCode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0427-construct-quad-tree](https://github.com/albindavidc/LeetCode/tree/main/0427-construct-quad-tree/) | Medium |
 | [0463-island-perimeter](https://github.com/albindavidc/LeetCode/tree/main/0463-island-perimeter/) | Easy |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/albindavidc/LeetCode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0832-flipping-an-image](https://github.com/albindavidc/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/albindavidc/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/albindavidc/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
