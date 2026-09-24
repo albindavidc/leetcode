@@ -44,6 +44,7 @@
 | [0436-find-right-interval](https://github.com/albindavidc/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0463-island-perimeter](https://github.com/albindavidc/LeetCode/tree/main/0463-island-perimeter/) | Easy |
+| [0491-non-decreasing-subsequences](https://github.com/albindavidc/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0500-keyboard-row](https://github.com/albindavidc/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/albindavidc/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/albindavidc/LeetCode/tree/main/0528-random-pick-with-weight/) | Medium |
@@ -379,6 +380,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/albindavidc/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/albindavidc/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/albindavidc/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0500-keyboard-row](https://github.com/albindavidc/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0508-most-frequent-subtree-sum](https://github.com/albindavidc/LeetCode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/albindavidc/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -448,6 +450,7 @@
 | [0257-binary-tree-paths](https://github.com/albindavidc/leetcode/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/albindavidc/LeetCode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0401-binary-watch](https://github.com/albindavidc/LeetCode/tree/main/0401-binary-watch/) | Easy |
+| [0491-non-decreasing-subsequences](https://github.com/albindavidc/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -576,6 +579,7 @@
 | [0397-integer-replacement](https://github.com/albindavidc/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0401-binary-watch](https://github.com/albindavidc/LeetCode/tree/main/0401-binary-watch/) | Easy |
 | [0476-number-complement](https://github.com/albindavidc/LeetCode/tree/main/0476-number-complement/) | Easy |
+| [0491-non-decreasing-subsequences](https://github.com/albindavidc/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0832-flipping-an-image](https://github.com/albindavidc/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [2869-minimum-operations-to-collect-elements](https://github.com/albindavidc/LeetCode/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/albindavidc/LeetCode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
