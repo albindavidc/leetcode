@@ -127,6 +127,7 @@
 | [0844-backspace-string-compare](https://github.com/albindavidc/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/albindavidc/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/albindavidc/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0925-long-pressed-name](https://github.com/albindavidc/LeetCode/tree/main/0925-long-pressed-name/) | Easy |
 | [0942-di-string-match](https://github.com/albindavidc/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/albindavidc/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/albindavidc/LeetCode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
@@ -309,6 +310,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/albindavidc/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0838-push-dominoes](https://github.com/albindavidc/LeetCode/tree/main/0838-push-dominoes/) | Medium |
 | [0844-backspace-string-compare](https://github.com/albindavidc/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0925-long-pressed-name](https://github.com/albindavidc/LeetCode/tree/main/0925-long-pressed-name/) | Easy |
 | [0942-di-string-match](https://github.com/albindavidc/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/albindavidc/LeetCode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/albindavidc/LeetCode/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
