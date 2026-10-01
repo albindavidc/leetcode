@@ -80,6 +80,7 @@
 | [0932-beautiful-array](https://github.com/albindavidc/LeetCode/tree/main/0932-beautiful-array/) | Medium |
 | [0942-di-string-match](https://github.com/albindavidc/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [0948-bag-of-tokens](https://github.com/albindavidc/LeetCode/tree/main/0948-bag-of-tokens/) | Medium |
+| [0969-pancake-sorting](https://github.com/albindavidc/LeetCode/tree/main/0969-pancake-sorting/) | Medium |
 | [0986-interval-list-intersections](https://github.com/albindavidc/LeetCode/tree/main/0986-interval-list-intersections/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/albindavidc/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1140-stone-game-ii](https://github.com/albindavidc/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
@@ -135,6 +136,7 @@
 | [0925-long-pressed-name](https://github.com/albindavidc/LeetCode/tree/main/0925-long-pressed-name/) | Easy |
 | [0942-di-string-match](https://github.com/albindavidc/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [0948-bag-of-tokens](https://github.com/albindavidc/LeetCode/tree/main/0948-bag-of-tokens/) | Medium |
+| [0969-pancake-sorting](https://github.com/albindavidc/LeetCode/tree/main/0969-pancake-sorting/) | Medium |
 | [0986-interval-list-intersections](https://github.com/albindavidc/LeetCode/tree/main/0986-interval-list-intersections/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/albindavidc/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
@@ -228,6 +230,7 @@
 | [0888-fair-candy-swap](https://github.com/albindavidc/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/albindavidc/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0948-bag-of-tokens](https://github.com/albindavidc/LeetCode/tree/main/0948-bag-of-tokens/) | Medium |
+| [0969-pancake-sorting](https://github.com/albindavidc/LeetCode/tree/main/0969-pancake-sorting/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/albindavidc/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/albindavidc/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/albindavidc/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -371,6 +374,7 @@
 | [0881-boats-to-save-people](https://github.com/albindavidc/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0942-di-string-match](https://github.com/albindavidc/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [0948-bag-of-tokens](https://github.com/albindavidc/LeetCode/tree/main/0948-bag-of-tokens/) | Medium |
+| [0969-pancake-sorting](https://github.com/albindavidc/LeetCode/tree/main/0969-pancake-sorting/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/albindavidc/LeetCode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/albindavidc/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Monotonic Stack
