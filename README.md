@@ -140,6 +140,7 @@
 | [0969-pancake-sorting](https://github.com/albindavidc/LeetCode/tree/main/0969-pancake-sorting/) | Medium |
 | [0986-interval-list-intersections](https://github.com/albindavidc/LeetCode/tree/main/0986-interval-list-intersections/) | Medium |
 | [1023-camelcase-matching](https://github.com/albindavidc/LeetCode/tree/main/1023-camelcase-matching/) | Medium |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/albindavidc/LeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/albindavidc/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/albindavidc/LeetCode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
@@ -188,6 +189,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/albindavidc/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0888-fair-candy-swap](https://github.com/albindavidc/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/albindavidc/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/albindavidc/LeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/albindavidc/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/albindavidc/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/albindavidc/LeetCode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
@@ -290,6 +292,7 @@
 | [0812-largest-triangle-area](https://github.com/albindavidc/leetcode/tree/master/0812-largest-triangle-area) |
 | [0932-beautiful-array](https://github.com/albindavidc/LeetCode/tree/main/0932-beautiful-array/) | Medium |
 | [1140-stone-game-ii](https://github.com/albindavidc/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/albindavidc/LeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/albindavidc/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/albindavidc/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/albindavidc/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -827,6 +830,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/albindavidc/LeetCode/tree/main/0278-first-bad-version/) | Easy |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/albindavidc/LeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 ## Reservoir Sampling
 | Problem Name | Difficulty |
 | ------- | ------- |
