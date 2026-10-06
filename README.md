@@ -84,6 +84,7 @@
 | [0986-interval-list-intersections](https://github.com/albindavidc/LeetCode/tree/main/0986-interval-list-intersections/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/albindavidc/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1023-camelcase-matching](https://github.com/albindavidc/LeetCode/tree/main/1023-camelcase-matching/) | Medium |
+| [1048-longest-string-chain](https://github.com/albindavidc/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [1140-stone-game-ii](https://github.com/albindavidc/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/albindavidc/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/albindavidc/LeetCode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
@@ -141,6 +142,7 @@
 | [0969-pancake-sorting](https://github.com/albindavidc/LeetCode/tree/main/0969-pancake-sorting/) | Medium |
 | [0986-interval-list-intersections](https://github.com/albindavidc/LeetCode/tree/main/0986-interval-list-intersections/) | Medium |
 | [1023-camelcase-matching](https://github.com/albindavidc/LeetCode/tree/main/1023-camelcase-matching/) | Medium |
+| [1048-longest-string-chain](https://github.com/albindavidc/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/albindavidc/LeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/albindavidc/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
@@ -238,6 +240,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/albindavidc/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0948-bag-of-tokens](https://github.com/albindavidc/LeetCode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0969-pancake-sorting](https://github.com/albindavidc/LeetCode/tree/main/0969-pancake-sorting/) | Medium |
+| [1048-longest-string-chain](https://github.com/albindavidc/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/albindavidc/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/albindavidc/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/albindavidc/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -336,6 +339,7 @@
 | [0925-long-pressed-name](https://github.com/albindavidc/LeetCode/tree/main/0925-long-pressed-name/) | Easy |
 | [0942-di-string-match](https://github.com/albindavidc/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [1023-camelcase-matching](https://github.com/albindavidc/LeetCode/tree/main/1023-camelcase-matching/) | Medium |
+| [1048-longest-string-chain](https://github.com/albindavidc/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/albindavidc/LeetCode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/albindavidc/LeetCode/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/albindavidc/LeetCode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
@@ -424,6 +428,7 @@
 | [0781-rabbits-in-forest](https://github.com/albindavidc/LeetCode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0846-hand-of-straights](https://github.com/albindavidc/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 | [0888-fair-candy-swap](https://github.com/albindavidc/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
+| [1048-longest-string-chain](https://github.com/albindavidc/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/albindavidc/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/albindavidc/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/albindavidc/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -470,6 +475,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/albindavidc/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/albindavidc/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0838-push-dominoes](https://github.com/albindavidc/LeetCode/tree/main/0838-push-dominoes/) | Medium |
+| [1048-longest-string-chain](https://github.com/albindavidc/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [1140-stone-game-ii](https://github.com/albindavidc/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
