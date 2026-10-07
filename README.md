@@ -147,6 +147,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/albindavidc/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/albindavidc/LeetCode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/albindavidc/LeetCode/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/albindavidc/LeetCode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/albindavidc/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/albindavidc/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -341,6 +342,7 @@
 | [1023-camelcase-matching](https://github.com/albindavidc/LeetCode/tree/main/1023-camelcase-matching/) | Medium |
 | [1048-longest-string-chain](https://github.com/albindavidc/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/albindavidc/LeetCode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/albindavidc/LeetCode/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/albindavidc/LeetCode/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/albindavidc/LeetCode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/albindavidc/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -389,6 +391,7 @@
 | [0942-di-string-match](https://github.com/albindavidc/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [0948-bag-of-tokens](https://github.com/albindavidc/LeetCode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0969-pancake-sorting](https://github.com/albindavidc/LeetCode/tree/main/0969-pancake-sorting/) | Medium |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/albindavidc/LeetCode/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/albindavidc/LeetCode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/albindavidc/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Monotonic Stack
