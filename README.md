@@ -93,6 +93,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/albindavidc/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/albindavidc/LeetCode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/albindavidc/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/albindavidc/LeetCode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/albindavidc/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/albindavidc/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -148,6 +149,7 @@
 | [1471-the-k-strongest-values-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/albindavidc/LeetCode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/albindavidc/LeetCode/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/albindavidc/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/albindavidc/LeetCode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/albindavidc/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/albindavidc/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -247,6 +249,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/albindavidc/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/albindavidc/LeetCode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/albindavidc/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/albindavidc/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/albindavidc/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/albindavidc/LeetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
@@ -392,6 +395,7 @@
 | [0948-bag-of-tokens](https://github.com/albindavidc/LeetCode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0969-pancake-sorting](https://github.com/albindavidc/LeetCode/tree/main/0969-pancake-sorting/) | Medium |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/albindavidc/LeetCode/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/albindavidc/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/albindavidc/LeetCode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/albindavidc/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Monotonic Stack
