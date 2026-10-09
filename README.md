@@ -67,6 +67,7 @@
 | [0721-accounts-merge](https://github.com/albindavidc/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/albindavidc/LeetCode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/albindavidc/LeetCode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/albindavidc/LeetCode/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/albindavidc/LeetCode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0809-expressive-words](https://github.com/albindavidc/LeetCode/tree/main/0809-expressive-words/) | Medium |
 | [0812-largest-triangle-area](https://github.com/albindavidc/leetcode/tree/master/0812-largest-triangle-area) |
@@ -129,6 +130,7 @@
 | [0658-find-k-closest-elements](https://github.com/albindavidc/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0763-partition-labels](https://github.com/albindavidc/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/albindavidc/LeetCode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/albindavidc/LeetCode/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
 | [0809-expressive-words](https://github.com/albindavidc/LeetCode/tree/main/0809-expressive-words/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/albindavidc/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/albindavidc/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
