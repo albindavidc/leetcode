@@ -4,7 +4,7 @@
  * @return {number}
  */
 var numSubseq = function (nums, target) {
-    let mod = 1_000_000_007;
+    let mod = 1_00_00_00_007;
     nums = nums.sort((a, b) => a - b)
     let result = 0;
     let left = 0;
