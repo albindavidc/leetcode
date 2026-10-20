@@ -347,6 +347,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/albindavidc/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/albindavidc/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0763-partition-labels](https://github.com/albindavidc/LeetCode/tree/main/0763-partition-labels/) | Medium |
+| [0784-letter-case-permutation](https://github.com/albindavidc/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0796-rotate-string](https://github.com/albindavidc/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0809-expressive-words](https://github.com/albindavidc/LeetCode/tree/main/0809-expressive-words/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/albindavidc/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
@@ -509,6 +510,7 @@
 | [0357-count-numbers-with-unique-digits](https://github.com/albindavidc/LeetCode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0401-binary-watch](https://github.com/albindavidc/LeetCode/tree/main/0401-binary-watch/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/albindavidc/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [0784-letter-case-permutation](https://github.com/albindavidc/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -639,6 +641,7 @@
 | [0401-binary-watch](https://github.com/albindavidc/LeetCode/tree/main/0401-binary-watch/) | Easy |
 | [0476-number-complement](https://github.com/albindavidc/LeetCode/tree/main/0476-number-complement/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/albindavidc/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [0784-letter-case-permutation](https://github.com/albindavidc/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0832-flipping-an-image](https://github.com/albindavidc/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [2869-minimum-operations-to-collect-elements](https://github.com/albindavidc/LeetCode/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/albindavidc/LeetCode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
