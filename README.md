@@ -47,6 +47,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/albindavidc/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0500-keyboard-row](https://github.com/albindavidc/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/albindavidc/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0526-beautiful-arrangement](https://github.com/albindavidc/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/albindavidc/LeetCode/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0539-minimum-time-difference](https://github.com/albindavidc/LeetCode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/albindavidc/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -496,6 +497,7 @@
 | [0368-largest-divisible-subset](https://github.com/albindavidc/LeetCode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/albindavidc/LeetCode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0397-integer-replacement](https://github.com/albindavidc/LeetCode/tree/main/0397-integer-replacement/) | Medium |
+| [0526-beautiful-arrangement](https://github.com/albindavidc/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/albindavidc/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/albindavidc/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0838-push-dominoes](https://github.com/albindavidc/LeetCode/tree/main/0838-push-dominoes/) | Medium |
@@ -510,6 +512,7 @@
 | [0357-count-numbers-with-unique-digits](https://github.com/albindavidc/LeetCode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0401-binary-watch](https://github.com/albindavidc/LeetCode/tree/main/0401-binary-watch/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/albindavidc/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [0526-beautiful-arrangement](https://github.com/albindavidc/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0784-letter-case-permutation](https://github.com/albindavidc/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -641,6 +644,7 @@
 | [0401-binary-watch](https://github.com/albindavidc/LeetCode/tree/main/0401-binary-watch/) | Easy |
 | [0476-number-complement](https://github.com/albindavidc/LeetCode/tree/main/0476-number-complement/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/albindavidc/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [0526-beautiful-arrangement](https://github.com/albindavidc/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0784-letter-case-permutation](https://github.com/albindavidc/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0832-flipping-an-image](https://github.com/albindavidc/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [2869-minimum-operations-to-collect-elements](https://github.com/albindavidc/LeetCode/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
@@ -974,4 +978,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/albindavidc/LeetCode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0526-beautiful-arrangement](https://github.com/albindavidc/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
 <!---LeetCode Topics End-->
