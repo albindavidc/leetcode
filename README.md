@@ -83,6 +83,7 @@
 | [0932-beautiful-array](https://github.com/albindavidc/LeetCode/tree/main/0932-beautiful-array/) | Medium |
 | [0942-di-string-match](https://github.com/albindavidc/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [0948-bag-of-tokens](https://github.com/albindavidc/LeetCode/tree/main/0948-bag-of-tokens/) | Medium |
+| [0962-maximum-width-ramp](https://github.com/albindavidc/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0969-pancake-sorting](https://github.com/albindavidc/LeetCode/tree/main/0969-pancake-sorting/) | Medium |
 | [0986-interval-list-intersections](https://github.com/albindavidc/LeetCode/tree/main/0986-interval-list-intersections/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/albindavidc/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -148,6 +149,7 @@
 | [0925-long-pressed-name](https://github.com/albindavidc/LeetCode/tree/main/0925-long-pressed-name/) | Easy |
 | [0942-di-string-match](https://github.com/albindavidc/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [0948-bag-of-tokens](https://github.com/albindavidc/LeetCode/tree/main/0948-bag-of-tokens/) | Medium |
+| [0962-maximum-width-ramp](https://github.com/albindavidc/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0969-pancake-sorting](https://github.com/albindavidc/LeetCode/tree/main/0969-pancake-sorting/) | Medium |
 | [0986-interval-list-intersections](https://github.com/albindavidc/LeetCode/tree/main/0986-interval-list-intersections/) | Medium |
 | [1023-camelcase-matching](https://github.com/albindavidc/LeetCode/tree/main/1023-camelcase-matching/) | Medium |
@@ -395,6 +397,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/albindavidc/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0844-backspace-string-compare](https://github.com/albindavidc/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0962-maximum-width-ramp](https://github.com/albindavidc/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/albindavidc/LeetCode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/albindavidc/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Greedy
@@ -426,6 +429,7 @@
 | [0402-remove-k-digits](https://github.com/albindavidc/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/albindavidc/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/albindavidc/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0962-maximum-width-ramp](https://github.com/albindavidc/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
