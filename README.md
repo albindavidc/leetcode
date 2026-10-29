@@ -355,6 +355,7 @@
 | [0692-top-k-frequent-words](https://github.com/albindavidc/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/albindavidc/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/albindavidc/LeetCode/tree/main/0721-accounts-merge/) | Medium |
+| [0756-pyramid-transition-matrix](https://github.com/albindavidc/LeetCode/tree/main/0756-pyramid-transition-matrix/) | Medium |
 | [0763-partition-labels](https://github.com/albindavidc/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0784-letter-case-permutation](https://github.com/albindavidc/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0796-rotate-string](https://github.com/albindavidc/LeetCode/tree/main/0796-rotate-string/) | Easy |
@@ -462,6 +463,7 @@
 | [0706-design-hashmap](https://github.com/albindavidc/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/albindavidc/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/albindavidc/LeetCode/tree/main/0721-accounts-merge/) | Medium |
+| [0756-pyramid-transition-matrix](https://github.com/albindavidc/LeetCode/tree/main/0756-pyramid-transition-matrix/) | Medium |
 | [0763-partition-labels](https://github.com/albindavidc/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/albindavidc/LeetCode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0846-hand-of-straights](https://github.com/albindavidc/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
@@ -526,6 +528,7 @@
 | [0401-binary-watch](https://github.com/albindavidc/LeetCode/tree/main/0401-binary-watch/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/albindavidc/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/albindavidc/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0756-pyramid-transition-matrix](https://github.com/albindavidc/LeetCode/tree/main/0756-pyramid-transition-matrix/) | Medium |
 | [0784-letter-case-permutation](https://github.com/albindavidc/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/albindavidc/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Tree
@@ -659,6 +662,7 @@
 | [0476-number-complement](https://github.com/albindavidc/LeetCode/tree/main/0476-number-complement/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/albindavidc/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/albindavidc/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0756-pyramid-transition-matrix](https://github.com/albindavidc/LeetCode/tree/main/0756-pyramid-transition-matrix/) | Medium |
 | [0784-letter-case-permutation](https://github.com/albindavidc/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0832-flipping-an-image](https://github.com/albindavidc/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [2869-minimum-operations-to-collect-elements](https://github.com/albindavidc/LeetCode/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
