@@ -162,6 +162,7 @@
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/albindavidc/LeetCode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/albindavidc/leetcode/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/albindavidc/LeetCode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/albindavidc/LeetCode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/albindavidc/LeetCode/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/albindavidc/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/albindavidc/LeetCode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
@@ -368,6 +369,7 @@
 | [1023-camelcase-matching](https://github.com/albindavidc/LeetCode/tree/main/1023-camelcase-matching/) | Medium |
 | [1048-longest-string-chain](https://github.com/albindavidc/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/albindavidc/LeetCode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/albindavidc/LeetCode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/albindavidc/LeetCode/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/albindavidc/LeetCode/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/albindavidc/LeetCode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
