@@ -361,6 +361,7 @@
 | [0784-letter-case-permutation](https://github.com/albindavidc/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0796-rotate-string](https://github.com/albindavidc/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0809-expressive-words](https://github.com/albindavidc/LeetCode/tree/main/0809-expressive-words/) | Medium |
+| [0816-ambiguous-coordinates](https://github.com/albindavidc/LeetCode/tree/main/0816-ambiguous-coordinates/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/albindavidc/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0838-push-dominoes](https://github.com/albindavidc/LeetCode/tree/main/0838-push-dominoes/) | Medium |
 | [0844-backspace-string-compare](https://github.com/albindavidc/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
@@ -533,6 +534,7 @@
 | [0756-pyramid-transition-matrix](https://github.com/albindavidc/LeetCode/tree/main/0756-pyramid-transition-matrix/) | Medium |
 | [0784-letter-case-permutation](https://github.com/albindavidc/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/albindavidc/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0816-ambiguous-coordinates](https://github.com/albindavidc/LeetCode/tree/main/0816-ambiguous-coordinates/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -682,6 +684,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0816-ambiguous-coordinates](https://github.com/albindavidc/LeetCode/tree/main/0816-ambiguous-coordinates/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/albindavidc/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/albindavidc/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/albindavidc/LeetCode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
