@@ -367,6 +367,7 @@
 | [0844-backspace-string-compare](https://github.com/albindavidc/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0925-long-pressed-name](https://github.com/albindavidc/LeetCode/tree/main/0925-long-pressed-name/) | Easy |
 | [0942-di-string-match](https://github.com/albindavidc/LeetCode/tree/main/0942-di-string-match/) | Easy |
+| [0988-smallest-string-starting-from-leaf](https://github.com/albindavidc/LeetCode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1023-camelcase-matching](https://github.com/albindavidc/LeetCode/tree/main/1023-camelcase-matching/) | Medium |
 | [1048-longest-string-chain](https://github.com/albindavidc/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/albindavidc/LeetCode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
@@ -535,6 +536,7 @@
 | [0784-letter-case-permutation](https://github.com/albindavidc/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/albindavidc/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0816-ambiguous-coordinates](https://github.com/albindavidc/LeetCode/tree/main/0816-ambiguous-coordinates/) | Medium |
+| [0988-smallest-string-starting-from-leaf](https://github.com/albindavidc/LeetCode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -585,6 +587,7 @@
 | [0617-merge-two-binary-trees](https://github.com/albindavidc/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/albindavidc/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0988-smallest-string-starting-from-leaf](https://github.com/albindavidc/LeetCode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -647,6 +650,7 @@
 | [0617-merge-two-binary-trees](https://github.com/albindavidc/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/albindavidc/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0988-smallest-string-starting-from-leaf](https://github.com/albindavidc/LeetCode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -832,6 +836,7 @@
 | [0684-redundant-connection](https://github.com/albindavidc/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/albindavidc/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/albindavidc/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0988-smallest-string-starting-from-leaf](https://github.com/albindavidc/LeetCode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/albindavidc/LeetCode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
