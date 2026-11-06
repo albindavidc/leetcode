@@ -73,6 +73,7 @@
 | [0809-expressive-words](https://github.com/albindavidc/LeetCode/tree/main/0809-expressive-words/) | Medium |
 | [0812-largest-triangle-area](https://github.com/albindavidc/leetcode/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/albindavidc/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0825-friends-of-appropriate-ages](https://github.com/albindavidc/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0832-flipping-an-image](https://github.com/albindavidc/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0846-hand-of-straights](https://github.com/albindavidc/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/albindavidc/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -141,6 +142,7 @@
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/albindavidc/LeetCode/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
 | [0809-expressive-words](https://github.com/albindavidc/LeetCode/tree/main/0809-expressive-words/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/albindavidc/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0825-friends-of-appropriate-ages](https://github.com/albindavidc/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0832-flipping-an-image](https://github.com/albindavidc/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0838-push-dominoes](https://github.com/albindavidc/LeetCode/tree/main/0838-push-dominoes/) | Medium |
 | [0844-backspace-string-compare](https://github.com/albindavidc/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
@@ -213,6 +215,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/albindavidc/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0754-reach-a-number](https://github.com/albindavidc/LeetCode/tree/main/0754-reach-a-number/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/albindavidc/LeetCode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0825-friends-of-appropriate-ages](https://github.com/albindavidc/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/albindavidc/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0888-fair-candy-swap](https://github.com/albindavidc/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/albindavidc/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -259,6 +262,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/albindavidc/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/albindavidc/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/albindavidc/LeetCode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0825-friends-of-appropriate-ages](https://github.com/albindavidc/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0846-hand-of-straights](https://github.com/albindavidc/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 | [0870-advantage-shuffle](https://github.com/albindavidc/LeetCode/tree/main/0870-advantage-shuffle/) | Medium |
 | [0881-boats-to-save-people](https://github.com/albindavidc/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
