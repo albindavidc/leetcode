@@ -233,6 +233,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/albindavidc/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/albindavidc/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/albindavidc/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/albindavidc/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -348,6 +349,7 @@
 | [0067-add-binary](https://github.com/albindavidc/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0139-word-break](https://github.com/albindavidc/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0165-compare-version-numbers](https://github.com/albindavidc/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/albindavidc/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/albindavidc/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0224-basic-calculator](https://github.com/albindavidc/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/albindavidc/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
@@ -460,6 +462,7 @@
 | [0139-word-break](https://github.com/albindavidc/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0146-lru-cache](https://github.com/albindavidc/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0169-majority-element](https://github.com/albindavidc/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0187-repeated-dna-sequences](https://github.com/albindavidc/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0229-majority-element-ii](https://github.com/albindavidc/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0264-ugly-number-ii](https://github.com/albindavidc/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/albindavidc/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -673,6 +676,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/albindavidc/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0187-repeated-dna-sequences](https://github.com/albindavidc/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0190-reverse-bits](https://github.com/albindavidc/LeetCode/tree/main/0190-reverse-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/albindavidc/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0342-power-of-four](https://github.com/albindavidc/LeetCode/tree/main/0342-power-of-four/) | Easy |
@@ -908,6 +912,7 @@
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/albindavidc/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/albindavidc/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0706-design-hashmap](https://github.com/albindavidc/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/albindavidc/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
@@ -986,6 +991,7 @@
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/albindavidc/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/albindavidc/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/albindavidc/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 ## Topological Sort
@@ -1029,4 +1035,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/albindavidc/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/albindavidc/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/albindavidc/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 <!---LeetCode Topics End-->
