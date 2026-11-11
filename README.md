@@ -40,6 +40,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/albindavidc/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/albindavidc/LeetCode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/albindavidc/LeetCode/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0427-construct-quad-tree](https://github.com/albindavidc/LeetCode/tree/main/0427-construct-quad-tree/) | Medium |
 | [0436-find-right-interval](https://github.com/albindavidc/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -468,6 +469,7 @@
 | [0264-ugly-number-ii](https://github.com/albindavidc/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/albindavidc/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0398-random-pick-index](https://github.com/albindavidc/LeetCode/tree/main/0398-random-pick-index/) | Medium |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/albindavidc/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/albindavidc/LeetCode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -684,6 +686,7 @@
 | [0342-power-of-four](https://github.com/albindavidc/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0397-integer-replacement](https://github.com/albindavidc/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0401-binary-watch](https://github.com/albindavidc/LeetCode/tree/main/0401-binary-watch/) | Easy |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0476-number-complement](https://github.com/albindavidc/LeetCode/tree/main/0476-number-complement/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/albindavidc/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/albindavidc/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
@@ -768,6 +771,7 @@
 | [0139-word-break](https://github.com/albindavidc/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/albindavidc/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/albindavidc/LeetCode/tree/main/0386-lexicographical-numbers/) | Medium |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/albindavidc/LeetCode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0648-replace-words](https://github.com/albindavidc/LeetCode/tree/main/0648-replace-words/) | Medium |
 | [0676-implement-magic-dictionary](https://github.com/albindavidc/LeetCode/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/albindavidc/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
