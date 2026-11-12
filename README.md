@@ -362,6 +362,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/albindavidc/LeetCode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/albindavidc/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0500-keyboard-row](https://github.com/albindavidc/LeetCode/tree/main/0500-keyboard-row/) | Easy |
+| [0535-encode-and-decode-tinyurl](https://github.com/albindavidc/LeetCode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0539-minimum-time-difference](https://github.com/albindavidc/LeetCode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/albindavidc/LeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0606-construct-string-from-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
@@ -477,6 +478,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/albindavidc/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0500-keyboard-row](https://github.com/albindavidc/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0508-most-frequent-subtree-sum](https://github.com/albindavidc/LeetCode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
+| [0535-encode-and-decode-tinyurl](https://github.com/albindavidc/LeetCode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/albindavidc/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0621-task-scheduler](https://github.com/albindavidc/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0648-replace-words](https://github.com/albindavidc/LeetCode/tree/main/0648-replace-words/) | Medium |
@@ -896,6 +898,7 @@
 | [0341-flatten-nested-list-iterator](https://github.com/albindavidc/LeetCode/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/albindavidc/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/albindavidc/LeetCode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
+| [0535-encode-and-decode-tinyurl](https://github.com/albindavidc/LeetCode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0622-design-circular-queue](https://github.com/albindavidc/LeetCode/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/albindavidc/LeetCode/tree/main/0641-design-circular-deque/) | Medium |
 | [0676-implement-magic-dictionary](https://github.com/albindavidc/LeetCode/tree/main/0676-implement-magic-dictionary/) | Medium |
@@ -920,6 +923,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/albindavidc/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0535-encode-and-decode-tinyurl](https://github.com/albindavidc/LeetCode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/albindavidc/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0706-design-hashmap](https://github.com/albindavidc/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/albindavidc/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
