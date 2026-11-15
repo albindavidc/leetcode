@@ -52,6 +52,7 @@
 | [0528-random-pick-with-weight](https://github.com/albindavidc/LeetCode/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0539-minimum-time-difference](https://github.com/albindavidc/LeetCode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/albindavidc/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0554-brick-wall](https://github.com/albindavidc/LeetCode/tree/main/0554-brick-wall/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/albindavidc/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/albindavidc/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/albindavidc/LeetCode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
@@ -481,6 +482,7 @@
 | [0500-keyboard-row](https://github.com/albindavidc/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0508-most-frequent-subtree-sum](https://github.com/albindavidc/LeetCode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/albindavidc/LeetCode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
+| [0554-brick-wall](https://github.com/albindavidc/LeetCode/tree/main/0554-brick-wall/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/albindavidc/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/albindavidc/LeetCode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0621-task-scheduler](https://github.com/albindavidc/LeetCode/tree/main/0621-task-scheduler/) | Medium |
