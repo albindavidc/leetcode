@@ -51,6 +51,7 @@
 | [0503-next-greater-element-ii](https://github.com/albindavidc/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/albindavidc/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/albindavidc/LeetCode/tree/main/0528-random-pick-with-weight/) | Medium |
+| [0529-minesweeper](https://github.com/albindavidc/LeetCode/tree/main/0529-minesweeper/) | Medium |
 | [0539-minimum-time-difference](https://github.com/albindavidc/LeetCode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/albindavidc/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0554-brick-wall](https://github.com/albindavidc/LeetCode/tree/main/0554-brick-wall/) | Medium |
@@ -760,6 +761,7 @@
 | [0419-battleships-in-a-board](https://github.com/albindavidc/LeetCode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0427-construct-quad-tree](https://github.com/albindavidc/LeetCode/tree/main/0427-construct-quad-tree/) | Medium |
 | [0463-island-perimeter](https://github.com/albindavidc/LeetCode/tree/main/0463-island-perimeter/) | Easy |
+| [0529-minesweeper](https://github.com/albindavidc/LeetCode/tree/main/0529-minesweeper/) | Medium |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/albindavidc/LeetCode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0832-flipping-an-image](https://github.com/albindavidc/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/albindavidc/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -818,6 +820,7 @@
 | [0463-island-perimeter](https://github.com/albindavidc/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/albindavidc/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/albindavidc/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0529-minesweeper](https://github.com/albindavidc/LeetCode/tree/main/0529-minesweeper/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/albindavidc/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/albindavidc/LeetCode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/albindavidc/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -863,6 +866,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/albindavidc/LeetCode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/albindavidc/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/albindavidc/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0529-minesweeper](https://github.com/albindavidc/LeetCode/tree/main/0529-minesweeper/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/albindavidc/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/albindavidc/LeetCode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
