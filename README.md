@@ -621,6 +621,7 @@
 | [0617-merge-two-binary-trees](https://github.com/albindavidc/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0652-find-duplicate-subtrees](https://github.com/albindavidc/LeetCode/tree/main/0652-find-duplicate-subtrees/) | Medium |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/albindavidc/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/albindavidc/LeetCode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 ## Binary Search Tree
@@ -685,6 +686,7 @@
 | [0617-merge-two-binary-trees](https://github.com/albindavidc/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0652-find-duplicate-subtrees](https://github.com/albindavidc/LeetCode/tree/main/0652-find-duplicate-subtrees/) | Medium |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/albindavidc/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/albindavidc/LeetCode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 ## Prefix Sum
@@ -884,6 +886,7 @@
 | [0617-merge-two-binary-trees](https://github.com/albindavidc/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0652-find-duplicate-subtrees](https://github.com/albindavidc/LeetCode/tree/main/0652-find-duplicate-subtrees/) | Medium |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0676-implement-magic-dictionary](https://github.com/albindavidc/LeetCode/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0684-redundant-connection](https://github.com/albindavidc/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/albindavidc/LeetCode/tree/main/0721-accounts-merge/) | Medium |
