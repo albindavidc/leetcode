@@ -64,6 +64,7 @@
 | [0641-design-circular-deque](https://github.com/albindavidc/LeetCode/tree/main/0641-design-circular-deque/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/albindavidc/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0648-replace-words](https://github.com/albindavidc/LeetCode/tree/main/0648-replace-words/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/albindavidc/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/albindavidc/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/albindavidc/LeetCode/tree/main/0704-binary-search/) | Easy |
@@ -429,6 +430,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/albindavidc/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/albindavidc/LeetCode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0844-backspace-string-compare](https://github.com/albindavidc/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/albindavidc/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/albindavidc/leetcode/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
@@ -464,6 +466,7 @@
 | [0402-remove-k-digits](https://github.com/albindavidc/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/albindavidc/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/albindavidc/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/albindavidc/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/albindavidc/leetcode/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 ## Hash Table
@@ -621,6 +624,7 @@
 | [0617-merge-two-binary-trees](https://github.com/albindavidc/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0652-find-duplicate-subtrees](https://github.com/albindavidc/LeetCode/tree/main/0652-find-duplicate-subtrees/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/albindavidc/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/albindavidc/LeetCode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
@@ -686,6 +690,7 @@
 | [0617-merge-two-binary-trees](https://github.com/albindavidc/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0652-find-duplicate-subtrees](https://github.com/albindavidc/LeetCode/tree/main/0652-find-duplicate-subtrees/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/albindavidc/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/albindavidc/LeetCode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
@@ -743,6 +748,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/albindavidc/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/albindavidc/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0427-construct-quad-tree](https://github.com/albindavidc/LeetCode/tree/main/0427-construct-quad-tree/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0932-beautiful-array](https://github.com/albindavidc/LeetCode/tree/main/0932-beautiful-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -1090,4 +1096,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/albindavidc/LeetCode/tree/main/0433-minimum-genetic-mutation/) | Medium |
+## Cartesian Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0654-maximum-binary-tree](https://github.com/albindavidc/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
